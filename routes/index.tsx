@@ -13,7 +13,7 @@ export default function Home(props: PageProps) {
   const { posts } = props.data;
   return (
     <main class="p-4">
-      <h1 class="text-2xl font-bold mb-4">Deno Blog</h1>
+      <h1 class="text-2xl font-bold mb-4">Esa Chesca ❤️</h1>
 
       {posts.map((post: Post) => (
         <article class="mb-4">
