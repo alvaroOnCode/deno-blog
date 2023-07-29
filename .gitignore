@@ -4,3 +4,11 @@
 .env.test.local
 .env.production.local
 .env.local
+
+# image files
+*.jpg
+*.jpeg
+*.png
+
+# macos files
+.DS_Store
